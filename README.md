@@ -1,8 +1,8 @@
-<p align="center">
-  <img src="banner.jpeg" width="100%" />
-</p>
+# hey, i'm fandi 👋
 
-<h1 align="center">hey, i'm fandi 👋</h1>
+<p align="center">
+  <img src="github-banner.gif" width="100%" />
+</p>
 
 <p align="center">
   information systems student · building stuff & figuring things out
@@ -10,28 +10,57 @@
 
 ---
 
-### currently into
+### a little about me
 
-- backend & system development
-- APIs, databases, and system integration
-- system analyst enthusiast
-- Graphic design
+I'm an Information Systems student interested in backend development, how systems work, and the technology behind them.
 
-### tools i use
-
-PHP · Laravel · MySQL · Docker · Git
-
-### things i've worked on
-
-- **Pendekin** , a URL shortener built with Laravel, Redis, and caching.
-- **Trademe** , a platform for buying, selling, donating, and exchanging pre-owned items.
-- **Enterprise & integration projects** , exploring services, APIs, and system communication.
-
-### outside the terminal
-
-Music, photography, design, coffee, and probably spending too much time exploring random things on the internet.
+Currently exploring backend development, system integration, infrastructure, and cybersecurity. I also enjoy graphic design, photography, and other creative stuff outside tech.
 
 ---
+
+### things i'm interested in
+
+- Backend development
+- System architecture & integration
+- APIs and databases
+- Infrastructure & cloud computing
+- Cybersecurity
+- UI/UX & graphic design
+
+---
+
+### tools & technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,nodejs,react,html,css,bootstrap" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,redis,docker,nginx,rabbitmq,graphql" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,jenkins,postman,figma" />
+</p>
+
+---
+
+### selected projects
+
+- **Pendekin**  
+  A URL shortener with redirect management, expiration handling, and Redis caching.
+
+- **Trademe**  
+  A platform for buying, selling, donating, and exchanging pre-owned items.
+
+- **Enterprise system projects**  
+  Exploring service integration, APIs, and communication between systems.
+
+---
+
+### outside tech
+
+Music, photography, design, coffee, and random things that catch my curiosity.
 
 <p align="center">
   <sub>still learning, still building.</sub>
