@@ -14,18 +14,17 @@
 
 I'm an Information Systems student interested in backend development, how systems work, and the technology behind them.
 
-Currently exploring backend development, system integration, infrastructure, and cybersecurity. I also enjoy graphic design, photography, and other creative stuff outside tech.
+Currently exploring backend development, system integration, and infrastructure. I also enjoy graphic design, photography, video editing and other creative stuff outside tech.
 
 ---
 
 ### things i'm interested in
 
-- Backend development
-- System architecture & integration
+- backend development
+- system architecture & integration
 - APIs and databases
-- Infrastructure & cloud computing
-- Cybersecurity
-- UI/UX & graphic design
+- infrastructure & cloud computing
+- graphic design
 
 ---
 
