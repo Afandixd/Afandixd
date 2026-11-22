@@ -44,19 +44,6 @@ Currently exploring backend development, system integration, and infrastructure.
 
 ---
 
-### selected projects
-
-- **Pendekin**  
-  A URL shortener with redirect management, expiration handling, and Redis caching.
-
-- **Trademe**  
-  A platform for buying, selling, donating, and exchanging pre-owned items.
-
-- **Enterprise system projects**  
-  Exploring service integration, APIs, and communication between systems.
-
----
-
 ### outside tech
 
 Music, photography, design, coffee, and random things that catch my curiosity.
