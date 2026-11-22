@@ -49,5 +49,5 @@ Currently exploring backend development, system integration, and infrastructure.
 Music, photography, design, coffee, and random things that catch my curiosity.
 
 <p align="center">
-  <sub>still learning, still building.</sub>
+  <sub>still learning, still building (vibe btw).</sub>
 </p>
