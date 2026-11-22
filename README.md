@@ -1,16 +1,38 @@
-## Hi there 👋
+<p align="center">
+  <img src="banner.jpeg" width="100%" />
+</p>
 
-<!--
-**Afandixd/Afandixd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">hey, i'm fandi 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  information systems student · building stuff & figuring things out
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### currently into
+
+- backend & system development
+- APIs, databases, and system integration
+- system analyst enthusiast
+- Graphic design
+
+### tools i use
+
+PHP · Laravel · MySQL · Docker · Git
+
+### things i've worked on
+
+- **Pendekin** , a URL shortener built with Laravel, Redis, and caching.
+- **Trademe** , a platform for buying, selling, donating, and exchanging pre-owned items.
+- **Enterprise & integration projects** , exploring services, APIs, and system communication.
+
+### outside the terminal
+
+Music, photography, design, coffee, and probably spending too much time exploring random things on the internet.
+
+---
+
+<p align="center">
+  <sub>still learning, still building.</sub>
+</p>
